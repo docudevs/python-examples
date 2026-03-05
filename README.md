@@ -8,7 +8,7 @@ Extract structured data from any document with a few lines of Python.
 
 ## Quick Start
 
-1. Get your API key at [app.docudevs.ai](https://app.docudevs.ai)
+1. Get your API key at [docudevs.ai](https://docudevs.ai)
 2. Click any notebook below to open in Google Colab
 3. Add your API key to Colab Secrets (🔑 sidebar → add `DOCUDEVS_API_KEY`)
 
