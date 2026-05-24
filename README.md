@@ -20,6 +20,7 @@ Extract structured data from any document with a few lines of Python.
 | 2 | [Map-Reduce](02-map-reduce.ipynb) | Long documents (50+ pages) with chunking | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/02-map-reduce.ipynb) |
 | 3 | [Knowledge Search](03-knowledge-search.ipynb) | Enrich extractions with reference data | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/03-knowledge-search.ipynb) |
 | 4 | [Operations](04-operations.ipynb) | Error analysis & document Q&A | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/04-operations.ipynb) |
+| 5 | [Pipeline Extraction](05-pipeline-extraction.ipynb) | Classify, branch, and extract with pipeline mode | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/05-pipeline-extraction.ipynb) |
 
 ## Local Setup
 
