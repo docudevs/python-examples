@@ -21,11 +21,14 @@ Extract structured data from any document with a few lines of Python.
 | 3 | [Knowledge Search](03-knowledge-search.ipynb) | Enrich extractions with reference data | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/03-knowledge-search.ipynb) |
 | 4 | [Operations](04-operations.ipynb) | Error analysis & document Q&A | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/04-operations.ipynb) |
 | 5 | [Pipeline Extraction](05-pipeline-extraction.ipynb) | Classify, branch, and extract with pipeline mode | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/05-pipeline-extraction.ipynb) |
+| 6 | [Image Object Detection](06-source-locations.ipynb) | Detect objects in a soccer image and draw visual bounding boxes | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/06-source-locations.ipynb) |
+| 7 | [PDF Templates](07-pdf-template.ipynb) | Upload a fillable authorization PDF as a template, inspect fields, and fill it | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/07-pdf-template.ipynb) |
+| 8 | [PDF to AcroForm](08-pdf-acroform-metadata.ipynb) | Convert a complex medical PDF to AcroForm and inspect metadata/field definitions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/08-pdf-acroform-metadata.ipynb) |
 
 ## Local Setup
 
 ```bash
-pip install docu-devs-api-client pydantic jupyter
+pip install docu-devs-api-client pydantic jupyter matplotlib pillow pypdf
 export DOCUDEVS_API_KEY="your-api-key-here"
 jupyter notebook
 ```
