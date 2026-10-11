@@ -8,7 +8,7 @@ files directly, and `prepare_data.py` regenerates them.
 
 | File | Rows | Size | Contents |
 |------|------|------|----------|
-| `tree.json` | 165 nodes | 16 KB | Category tree: `code` (dotted, e.g. `1.2.6`), `parent` (code or `null` for a root), `name` (English). |
+| `tree.json` | 165 nodes | 14 KB | Category tree: `code` (dotted, e.g. `1.2.6`), `parent` (code or `null` for a root), `name` (English). |
 | `records.csv` | 2,500 | 436 KB | Labelled records: `name`, `generic_name`, `brand`, `quantity`, `ingredients`, `ean`, and `leaf` (the leaf code of the category, e.g. `1.2.6`). |
 | `holdout.csv` | 100 | 16 KB | Held-out products with the same columns. `leaf` is the true label used for accuracy. Holdout brands do not appear in `records.csv`. |
 
@@ -44,5 +44,12 @@ any one market.
 
 Data from [Open Food Facts](https://world.openfoodfacts.org), via the
 [openfoodfacts/product-database](https://huggingface.co/datasets/openfoodfacts/product-database)
-export on Hugging Face. See [`LICENSE`](LICENSE) for the licence of these files. The repository's MIT
-licence does not apply to this directory.
+export on Hugging Face.
+
+The files in this directory are a derived extract of the Open Food Facts database and are made
+available under the [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
+The individual contents of the database are made available under the
+[Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
+Suggested attribution: *"Contains data from Open Food Facts, available under the Open Database License."*
+
+The repository's MIT licence does not apply to this directory. The full notice is in [`LICENSE`](LICENSE).
