@@ -55,7 +55,7 @@ Bagels au sesame,,,,,0627735020167,8.2.1.2.1.8.1
 Orange/Sinas,"Koizuurhoudende frisdrank met sinaasappelsmaak, met suiker en zoetstoffen",Freeway,"0,33L","koolzuurhoudend water, suiker, 6% sinaasappelsap uit sapconcentraat,
 citroenzuur, appelzuur; zuurteregelaar: natriumcitraten; antioxidant ascorbinezuur,
 sinaasappelaroma met andere natuurlijke aroma's, zoetstoffen acesulfaam-K, aspartaam
-conserveermiddel: kaliumsorbaat; wortelsap concentraat, sta",20437077,1.2.3
+conserveermiddel: kaliumsorbaat; wortelsap concentraat, stabil",20437077,1.2.3
 Caramel Whipped Topping,,Lucerne Dairy Farms,13 oz,,0021130079421,3.1
 Schlagsahne,,DMK,200g,"Schlagsahne, Laktase, Stabilisator: Carrageen",4061458061414,3.1
 Nectar d'Abricot du Roussillon,,FRUGIBIO,75 cl,"Eau, purée d'abricot*, sucre. *Issus de l'Agriculture Biologique.",3760005727902,1.2.8
@@ -135,7 +135,7 @@ Traditional Guacamole,,Westfalia Fruit,2 x 400 g,,6009685030825,2.1.2
 Coca-Cola Light x Jean Paul Gaultier,"Boisson rafraichissante aux extraits végétaux, avec édulcorants",Coca-Cola,250 ml,Eau gazéifiée ; colorant : caramel (E 150d) ; acidifiants : acide phosphorique et acide citrique ; édulcorants : aspartame et acésulfame-K ; extraits végétaux ; arôme caféine.,5000112583243,1.2.7.2
 Nouilles séché,Nouilles de blé,CAP,454 g,"Farine de _blé_ (96%), amidon de tapioca, eau, correcteur d'acidité (E500(i), E501(i))",3379140211933,8.2.5
 Mayonnaise à la moutarde de Dijon,Mayonnaise à la moutarde de Dijon issue de l'agriculture biologique,Casino,238 g,"Huile de tournesol** - jaune d'oeuf** 7% - eau - moutarde de Dijon** 3,1% (vinaigre de cidre** (caséine de lait) - graines de moutarde** - eau - sel - acidifiant : acide citrique) - vinaigre d'alcool** - sucre de canne** - sel - arôme naturel de carotte - arôme naturel de moutarde.
-** issus de l'ag",3222473310630,2.1.4
+** issus de l'agr",3222473310630,2.1.4
 Ciabatta Tomate Bärlauch,Weißbrot nach italienischer Art mit getrockneten Tomaten und Bärlauch,Feinkost Käfer,280 g,"WEIZENMEHL, Wasser, Weizensauerteig (WEIZENMEHL, Wasser, ROGGENMEHL), HARTWEIZENGRIESS, 3% getrocknete Tomatenflocken, Hefe, Salz, 1% getrockneter Bärlauch, GERSTENMALZEXTRAKT, Traubenzucker, Rapsöl.",4031072206652,8.2.1.2.1.10.1
 Hummus Ingwer,,Sanchon,180g,"68 % Kichererbsen (Kichererbsen, Wasser, Rohrohrzucker, Apfelessig), Sonnenblumenöl, Apfelsaftkonzentrat, Erbsenprotein, 1,5% Ingwer, Zitronensaftkonzentrat, Knoblauch, Pfeffer schwarz, Kurkuma, natürliches ätherisches Kreuzkümmelöl, Meersalz, Maisstärke",4030917045807,2.1.2
 Bizcoho brownie,,Menal,,,8425849104900,10.2.2.1.2.1
@@ -299,7 +299,7 @@ Kashmiri Rogan Josh Curry Kit,,M&S Food,284g,"Base Masala Paste:
 Onions, Unsalted Butter (<span class=""allergen"">Milk</span>), Onion Purèe, Garlic, Garlic Purèe, Tomato Paste, Ginger Purèe, Concentrated Lemon Juice, Sea Salt,
 
 Kashmiri Curry Sauce:
-Tomato Passata, Tomato Paste, Soft Brown Sugar, Ginger Purèe, Unsalted Butter (<span class=""a",00048651,2.1.5
+Tomato Passata, Tomato Paste, Soft Brown Sugar, Ginger Purèe, Unsalted Butter (<span class=""aller",00048651,2.1.5
 Beignets framboise,Beignets fourrés à la purée de framboise,,,,0207046018895,10.2.2.1.3
 Original BBQ Sauce,,Sweet Baby Ray's,510g,,0013409517178,2.1.1
 Pain de mie,,Jacquet,890 g,,3029330800798,8.2.1.2.1.7
@@ -720,7 +720,7 @@ Seven seeds sensations,,Hovis,,"<span class=""allergen"">Wheat Flour</span> (wit
 Vital IPA,,,12 fl oz / 35 cl,,0630279847312,1.2.1.1.1.1.1
 4 Chicken Burger Patties,,Edeka,400g,"76% flüssig gewürztes, zerkleinertes Hähnchenbrustfilet* (92% Hähnchenbrustfilet, Wasser, Stärke, Speisesalz, Dextrose), Panade (WEIZENMEHL, Reisgrieß, Speisesalz, Dextrose, Gewürze, Hefe, Rapsöl), Rapsöl. *entspricht 64% gegartem Hähnchenbrustfilet, bezogen auf das Enderzeugnis.
 
-Infos für Allerg",4311501740767,7.1
+Infos für Allergik",4311501740767,7.1
 Pesto Alla Genovese Senza Aglio,,Polli,,,8001310810442,2.1.7.1
 Lime lychee drink,,Albert Heijn,"6 x 0,5 l","water, appelsap uit concentraat, voedingszuur (citroenzuur [E330], appelzuur [E296]), natuurlijk aroma, stabilisator (arabische gom [E414]), zoetstof (acesulfaam-k [E950], sucralose [E955]), plantaardige olie (kokos, koolzaad), vitaminen (B5, B6, B8, B12).",8718907537872,1.2.11.1
 Boga Menthe,Boisson gazeifiée,Boga,,"Eau gazeifiée, sucre, acide citrique: E330, arômes, arôme naturel de menthe, conservateur: E211, colorants: E150d, E104, E133.",6194019607054,1.2.3
@@ -801,7 +801,7 @@ Coca-Cola Original Taste,Coca-Cola,Coca-Cola,"1,5 L","VEIANDA ANALCOLICA. Ingred
 ante E 150d, acidificante acido fosforico, aromi naturali lincias
 inal. Prodotta su autorizzazione della The Coca-Cola Compa
 Lica-Cala HBC Italia S.r.l.. sede: P.zza Montanelli 30, Sesto S. 6ivan E
-1RLA Oricola lA0), M: :Marci",5000112565348,1.2.3
+1RLA Oricola lA0), M: :Marcianis",5000112565348,1.2.3
 Crème fraiche épaisse,,Etrez,20 cl,"_Crème_ pasteurisée, ferments lactiques",3286151120201,3.1
 Blanche,,Les Brasseurs Savoyards,75 cl,"Eau, malt de _blé_, malt d'_orge_, houblon, épices.",3760009532069,1.2.1.1.2.1
 Croissants x 2,,,,,6999999259183,10.2.5.1.3.1
@@ -1104,7 +1104,7 @@ Coca cola (125 ans),,Coca cola,250 ml,"BOISSON RAFRAÎCHISSANTE AUX EXTRAITS VÉ
 Apfelschorle,Apfelschorle mit 55% Fruchtgehalt,Thannhäuser,"0,5 l",,4003304279000,1.2.3
 2 demi baguettes,,Thiriet,280 g,"Farine de blé Label Rouge (origine France) (gluten (Blé)) 59,5%, eau, sel, levure, gluten de blé (gluten (Blé)), émulsifiant : mono - et diglycérides d'acides gras, farine de blé malté (gluten (Blé)), agent de traitement de la farine : acide ascorbique
 
-Présence éventuelle d'œuf, lait, sésame, fru",3292590894436,8.2.1.2.1.1.1
+Présence éventuelle d'œuf, lait, sésame, fruit",3292590894436,8.2.1.2.1.1.1
 Champagne charles bertin france sélection,,,750 ml,,3284221101211,1.2.1.6.2.1
 Broad Beans,,Sainsbury's,,,00468893,8.2.3
 1/2 baguette,,E.Leclerc,,"FARINE (ingrédients farine de BLE, GLUTEN DE BLE. farine de BLE malte, agent de traitement de la farine (acide ascorbique), enzymes (alpha-amylases. hémicellulases, xylanases, cellulases) trace eventuelles de SOJA,OEUFS ET FRUITS A COQUES.), Eau, sel, Levure, CROUSTILIS (Farine de froment, émulsifia",0205023002301,8.2.1.2.1.1.1
@@ -1702,7 +1702,7 @@ Tranches de filets de cabillaud,8 tranches nature de filets de cabillaud surgel�
 
 a : _gadus morhua_ pêché en atlantique nord-ouest, au chalut et lignes et hameçons
 
-b : _gadus morhua_ pêché en atlantique nord-est [sous zones : mer de barents , mer de norvège, spitzberg e",3222472254966,9.1.1.1
+b : _gadus morhua_ pêché en atlantique nord-est [sous zones : mer de barents , mer de norvège, spitzberg et il",3222472254966,9.1.1.1
 Halvanaise,,Albert Heijn,350 ml,"Raapolie, water, azijn, glucose - fructosestroop, 2% vrije-uitloopei, maïszetmeel, 0,5% vrije-uitloopeigeel, suiker, specerijen (mosterd), gemodificeerd maïszetmeel, zout, verdikkingsmiddel (guarpitmeel, xanthaangom), voedingszuur (citroenzuur), conserveermiddel (E202), natuurlijk aroma, antioxidant",8710400213765,2.1.4
 365 essential,,Delhaize,250 g,100% café,5400113608981,1.2.6
 "Day's, Blue Pop Soda",,Day's Beverages Inc.,,"Contains: carbonated water, high fructose corn syrup, citric acid, natural and artificial flavor, sodium benzoate (a preservative), gum acacia, glycerol ester of wood rosin, brominated soybean oil and blue #1.",0636511007216,1.2.3
@@ -2429,7 +2429,7 @@ Worcestershire sauce,,,,,5000111047593,2.1.9
 Whole Milk,,Challenge,,,0047200711244,3.2.1.3
 lemon grass tee,,,1pcs,,8854575001908,1.2.6
 Nouilles Instantanées Saveur Crabe,Nouilles Instantanées Saveur Crabe,Kailo,120 g,"Nouilles : Farine de _blé_, huile de palme, amidon de tapioca, sel, ail, acidifiants (E500(i), E501(i))
-Sachet d'assaisonnements : sel, sucre, exhausteur de goût (E621), épices (ail, poivre, anis), arôme crabe (extrait de crabe (_crustacé_), exhausteur de goût (E621), amidon de tapioca, sucre), ail",3379140196780,8.2.5
+Sachet d'assaisonnements : sel, sucre, exhausteur de goût (E621), épices (ail, poivre, anis), arôme crabe (extrait de crabe (_crustacé_), exhausteur de goût (E621), amidon de tapioca, sucre), ail,",3379140196780,8.2.5
 Roombeter,,Blue Band,215 g,"in Voedingswaarden ecithine), Vetten Energie Per 100g 2932kJ/",8719200269484,11.2
 Leche entera,,Ventosilla,,,8422781010108,3.2.1.3
 Duonelės viso grūdo,,Mano duona,240g,"40% kvietiniai miltai, 19,3% geriamasis vanduo, 8,9% viso grūdo ruginiai miltai, saulėgrąžų sėklos, 5% daiginti rugių grūdai, linų sėmenys, mielės, kviečių glitimas, moliūgų sėklos, cukrus, raudonas ruginis salyklas, valgomoji druska, tamsus miežių salyklo ekstraktas, tirštiklis: upenių derva; rauga",4056489084617,8.2.1.2.1.11

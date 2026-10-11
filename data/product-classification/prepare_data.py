@@ -220,11 +220,16 @@ def pick_text(entries):
     entries = entries or []
     for entry in entries:
         if entry.get("lang") == "en" and entry.get("text"):
-            return entry["text"].strip()
+            return clean_text(entry["text"])
     for entry in entries:
         if entry.get("text"):
-            return entry["text"].strip()
+            return clean_text(entry["text"])
     return ""
+
+
+def clean_text(text):
+    """Strip the text and use LF line ends, so git's autocrlf settings do not change the CSV."""
+    return text.replace("\r\n", "\n").strip()
 
 
 def normalise_product(raw):
