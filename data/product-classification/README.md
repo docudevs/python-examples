@@ -52,4 +52,4 @@ The individual contents of the database are made available under the
 [Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
 Suggested attribution: *"Contains data from Open Food Facts, available under the Open Database License."*
 
-The repository's MIT licence does not apply to this directory. The full notice is in [`LICENSE`](LICENSE).
+The repository's MIT licence does not apply to these data files. `prepare_data.py` is code and is under the repository's MIT licence. The full notice is in [`LICENSE`](LICENSE).
