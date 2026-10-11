@@ -1,0 +1,827 @@
+[
+  {
+    "code": "1",
+    "parent": null,
+    "name": "Beverages and beverages preparations"
+  },
+  {
+    "code": "2",
+    "parent": null,
+    "name": "Condiments"
+  },
+  {
+    "code": "3",
+    "parent": null,
+    "name": "Dairies"
+  },
+  {
+    "code": "4",
+    "parent": null,
+    "name": "Desserts"
+  },
+  {
+    "code": "5",
+    "parent": null,
+    "name": "Festive foods"
+  },
+  {
+    "code": "6",
+    "parent": null,
+    "name": "Meals"
+  },
+  {
+    "code": "7",
+    "parent": null,
+    "name": "Meats and their products"
+  },
+  {
+    "code": "8",
+    "parent": null,
+    "name": "Plant-based foods and beverages"
+  },
+  {
+    "code": "9",
+    "parent": null,
+    "name": "Seafood"
+  },
+  {
+    "code": "10",
+    "parent": null,
+    "name": "Snacks"
+  },
+  {
+    "code": "11",
+    "parent": null,
+    "name": "Spreads"
+  },
+  {
+    "code": "1.1",
+    "parent": "1",
+    "name": "Beverage preparations"
+  },
+  {
+    "code": "1.2",
+    "parent": "1",
+    "name": "Beverages"
+  },
+  {
+    "code": "2.1",
+    "parent": "2",
+    "name": "Sauces"
+  },
+  {
+    "code": "3.1",
+    "parent": "3",
+    "name": "Creams"
+  },
+  {
+    "code": "3.2",
+    "parent": "3",
+    "name": "Milks (liquid and powder)"
+  },
+  {
+    "code": "4.1",
+    "parent": "4",
+    "name": "Chocolate desserts"
+  },
+  {
+    "code": "5.1",
+    "parent": "5",
+    "name": "Easter foods and drinks"
+  },
+  {
+    "code": "6.1",
+    "parent": "6",
+    "name": "Combination Meals"
+  },
+  {
+    "code": "6.2",
+    "parent": "6",
+    "name": "Meals with meat"
+  },
+  {
+    "code": "7.1",
+    "parent": "7",
+    "name": "Meat preparations"
+  },
+  {
+    "code": "7.2",
+    "parent": "7",
+    "name": "Meats"
+  },
+  {
+    "code": "8.1",
+    "parent": "8",
+    "name": "Dairy substitutes"
+  },
+  {
+    "code": "8.2",
+    "parent": "8",
+    "name": "Plant-based foods"
+  },
+  {
+    "code": "9.1",
+    "parent": "9",
+    "name": "Fishes and their products"
+  },
+  {
+    "code": "10.1",
+    "parent": "10",
+    "name": "Salty snacks"
+  },
+  {
+    "code": "10.2",
+    "parent": "10",
+    "name": "Sweet snacks"
+  },
+  {
+    "code": "11.1",
+    "parent": "11",
+    "name": "Salted spreads"
+  },
+  {
+    "code": "11.2",
+    "parent": "11",
+    "name": "Spreadable fats"
+  },
+  {
+    "code": "1.1.1",
+    "parent": "1.1",
+    "name": "Herbal teas"
+  },
+  {
+    "code": "1.1.2",
+    "parent": "1.1",
+    "name": "Instant beverages"
+  },
+  {
+    "code": "1.1.3",
+    "parent": "1.1",
+    "name": "Tea leaves"
+  },
+  {
+    "code": "1.2.1",
+    "parent": "1.2",
+    "name": "Alcoholic beverages"
+  },
+  {
+    "code": "1.2.2",
+    "parent": "1.2",
+    "name": "Artificially sweetened beverages"
+  },
+  {
+    "code": "1.2.3",
+    "parent": "1.2",
+    "name": "Carbonated drinks"
+  },
+  {
+    "code": "1.2.4",
+    "parent": "1.2",
+    "name": "Coffee drinks"
+  },
+  {
+    "code": "1.2.5",
+    "parent": "1.2",
+    "name": "Energy drinks"
+  },
+  {
+    "code": "1.2.6",
+    "parent": "1.2",
+    "name": "Hot beverages"
+  },
+  {
+    "code": "1.2.7",
+    "parent": "1.2",
+    "name": "Non-alcoholic beverages"
+  },
+  {
+    "code": "1.2.8",
+    "parent": "1.2",
+    "name": "Sweetened beverages"
+  },
+  {
+    "code": "1.2.9",
+    "parent": "1.2",
+    "name": "Tea-based beverages"
+  },
+  {
+    "code": "1.2.10",
+    "parent": "1.2",
+    "name": "Unsweetened beverages"
+  },
+  {
+    "code": "1.2.11",
+    "parent": "1.2",
+    "name": "Waters"
+  },
+  {
+    "code": "2.1.1",
+    "parent": "2.1",
+    "name": "Barbecue sauces"
+  },
+  {
+    "code": "2.1.2",
+    "parent": "2.1",
+    "name": "Dips"
+  },
+  {
+    "code": "2.1.3",
+    "parent": "2.1",
+    "name": "Hot sauces"
+  },
+  {
+    "code": "2.1.4",
+    "parent": "2.1",
+    "name": "Mayonnaises"
+  },
+  {
+    "code": "2.1.5",
+    "parent": "2.1",
+    "name": "Meal sauces"
+  },
+  {
+    "code": "2.1.6",
+    "parent": "2.1",
+    "name": "Pasta sauces"
+  },
+  {
+    "code": "2.1.7",
+    "parent": "2.1",
+    "name": "Pestos"
+  },
+  {
+    "code": "2.1.8",
+    "parent": "2.1",
+    "name": "Salad dressings"
+  },
+  {
+    "code": "2.1.9",
+    "parent": "2.1",
+    "name": "Worcestershire sauces"
+  },
+  {
+    "code": "3.2.1",
+    "parent": "3.2",
+    "name": "Milks"
+  },
+  {
+    "code": "5.1.1",
+    "parent": "5.1",
+    "name": "Easter eggs"
+  },
+  {
+    "code": "7.2.1",
+    "parent": "7.2",
+    "name": "Poultries"
+  },
+  {
+    "code": "8.1.1",
+    "parent": "8.1",
+    "name": "Milk substitutes"
+  },
+  {
+    "code": "8.2.1",
+    "parent": "8.2",
+    "name": "Cereals and potatoes"
+  },
+  {
+    "code": "8.2.2",
+    "parent": "8.2",
+    "name": "Coffees"
+  },
+  {
+    "code": "8.2.3",
+    "parent": "8.2",
+    "name": "Fruits and vegetables based foods"
+  },
+  {
+    "code": "8.2.4",
+    "parent": "8.2",
+    "name": "Legumes and their products"
+  },
+  {
+    "code": "8.2.5",
+    "parent": "8.2",
+    "name": "Pastas"
+  },
+  {
+    "code": "9.1.1",
+    "parent": "9.1",
+    "name": "Fishes"
+  },
+  {
+    "code": "10.1.1",
+    "parent": "10.1",
+    "name": "Appetizers"
+  },
+  {
+    "code": "10.2.1",
+    "parent": "10.2",
+    "name": "Bars"
+  },
+  {
+    "code": "10.2.2",
+    "parent": "10.2",
+    "name": "Biscuits and cakes"
+  },
+  {
+    "code": "10.2.3",
+    "parent": "10.2",
+    "name": "Confectioneries"
+  },
+  {
+    "code": "10.2.4",
+    "parent": "10.2",
+    "name": "Sweet fritters"
+  },
+  {
+    "code": "10.2.5",
+    "parent": "10.2",
+    "name": "Sweet pastries and pies"
+  },
+  {
+    "code": "1.1.2.1",
+    "parent": "1.1.2",
+    "name": "Instant coffees"
+  },
+  {
+    "code": "1.1.3.1",
+    "parent": "1.1.3",
+    "name": "Tea bags"
+  },
+  {
+    "code": "1.2.1.1",
+    "parent": "1.2.1",
+    "name": "Beers"
+  },
+  {
+    "code": "1.2.1.2",
+    "parent": "1.2.1",
+    "name": "Ciders"
+  },
+  {
+    "code": "1.2.1.3",
+    "parent": "1.2.1",
+    "name": "Distilled beverages"
+  },
+  {
+    "code": "1.2.1.4",
+    "parent": "1.2.1",
+    "name": "Liqueurs"
+  },
+  {
+    "code": "1.2.1.5",
+    "parent": "1.2.1",
+    "name": "Premixed alcoholic beverages"
+  },
+  {
+    "code": "1.2.1.6",
+    "parent": "1.2.1",
+    "name": "Wines"
+  },
+  {
+    "code": "1.2.2.1",
+    "parent": "1.2.2",
+    "name": "Diet beverages"
+  },
+  {
+    "code": "1.2.5.1",
+    "parent": "1.2.5",
+    "name": "Energy drink without sugar and with artificial sweeteners"
+  },
+  {
+    "code": "1.2.7.1",
+    "parent": "1.2.7",
+    "name": "Non-alcoholic beers"
+  },
+  {
+    "code": "1.2.7.2",
+    "parent": "1.2.7",
+    "name": "Soft drinks"
+  },
+  {
+    "code": "1.2.9.1",
+    "parent": "1.2.9",
+    "name": "Iced teas"
+  },
+  {
+    "code": "1.2.11.1",
+    "parent": "1.2.11",
+    "name": "Flavored waters"
+  },
+  {
+    "code": "1.2.11.2",
+    "parent": "1.2.11",
+    "name": "Spring waters"
+  },
+  {
+    "code": "2.1.7.1",
+    "parent": "2.1.7",
+    "name": "Green pestos"
+  },
+  {
+    "code": "2.1.8.1",
+    "parent": "2.1.8",
+    "name": "Vinaigrettes"
+  },
+  {
+    "code": "3.2.1.1",
+    "parent": "3.2.1",
+    "name": "Homogenized milks"
+  },
+  {
+    "code": "3.2.1.2",
+    "parent": "3.2.1",
+    "name": "Semi-skimmed milks"
+  },
+  {
+    "code": "3.2.1.3",
+    "parent": "3.2.1",
+    "name": "Whole milks"
+  },
+  {
+    "code": "8.2.1.1",
+    "parent": "8.2.1",
+    "name": "Bakery products"
+  },
+  {
+    "code": "8.2.1.2",
+    "parent": "8.2.1",
+    "name": "Cereals and their products"
+  },
+  {
+    "code": "8.2.1.3",
+    "parent": "8.2.1",
+    "name": "Potatoes and their products"
+  },
+  {
+    "code": "8.2.4.1",
+    "parent": "8.2.4",
+    "name": "Legumes"
+  },
+  {
+    "code": "9.1.1.1",
+    "parent": "9.1.1",
+    "name": "Fish fillets"
+  },
+  {
+    "code": "10.2.1.1",
+    "parent": "10.2.1",
+    "name": "Cereal bars"
+  },
+  {
+    "code": "10.2.1.2",
+    "parent": "10.2.1",
+    "name": "Protein bars"
+  },
+  {
+    "code": "10.2.2.1",
+    "parent": "10.2.2",
+    "name": "Cakes"
+  },
+  {
+    "code": "10.2.2.2",
+    "parent": "10.2.2",
+    "name": "Gingerbreads"
+  },
+  {
+    "code": "10.2.2.3",
+    "parent": "10.2.2",
+    "name": "Pastries"
+  },
+  {
+    "code": "10.2.3.1",
+    "parent": "10.2.3",
+    "name": "Candies"
+  },
+  {
+    "code": "10.2.3.2",
+    "parent": "10.2.3",
+    "name": "Caramels"
+  },
+  {
+    "code": "10.2.3.3",
+    "parent": "10.2.3",
+    "name": "Chewing gums"
+  },
+  {
+    "code": "10.2.3.4",
+    "parent": "10.2.3",
+    "name": "Turkish delight"
+  },
+  {
+    "code": "10.2.3.5",
+    "parent": "10.2.3",
+    "name": "nougats"
+  },
+  {
+    "code": "10.2.5.1",
+    "parent": "10.2.5",
+    "name": "Viennoiseries"
+  },
+  {
+    "code": "1.2.1.1.1",
+    "parent": "1.2.1.1",
+    "name": "Ales"
+  },
+  {
+    "code": "1.2.1.1.2",
+    "parent": "1.2.1.1",
+    "name": "Country specific beers"
+  },
+  {
+    "code": "1.2.1.1.3",
+    "parent": "1.2.1.1",
+    "name": "Lagers"
+  },
+  {
+    "code": "1.2.1.3.1",
+    "parent": "1.2.1.3",
+    "name": "Hard liquors"
+  },
+  {
+    "code": "1.2.1.6.1",
+    "parent": "1.2.1.6",
+    "name": "Red wines"
+  },
+  {
+    "code": "1.2.1.6.2",
+    "parent": "1.2.1.6",
+    "name": "Sparkling wines"
+  },
+  {
+    "code": "1.2.1.6.3",
+    "parent": "1.2.1.6",
+    "name": "White wines"
+  },
+  {
+    "code": "1.2.1.6.4",
+    "parent": "1.2.1.6",
+    "name": "Wines from France"
+  },
+  {
+    "code": "1.2.1.6.5",
+    "parent": "1.2.1.6",
+    "name": "Wines from Italy"
+  },
+  {
+    "code": "8.2.1.1.1",
+    "parent": "8.2.1.1",
+    "name": "Pizza dough"
+  },
+  {
+    "code": "8.2.1.2.1",
+    "parent": "8.2.1.2",
+    "name": "Breads"
+  },
+  {
+    "code": "8.2.1.2.2",
+    "parent": "8.2.1.2",
+    "name": "Cereal semolinas"
+  },
+  {
+    "code": "8.2.1.2.3",
+    "parent": "8.2.1.2",
+    "name": "Pie dough"
+  },
+  {
+    "code": "8.2.1.2.4",
+    "parent": "8.2.1.2",
+    "name": "Puffed cereal cakes"
+  },
+  {
+    "code": "8.2.1.3.1",
+    "parent": "8.2.1.3",
+    "name": "Potato preparations"
+  },
+  {
+    "code": "8.2.1.3.2",
+    "parent": "8.2.1.3",
+    "name": "Potatoes"
+  },
+  {
+    "code": "10.2.1.1.1",
+    "parent": "10.2.1.1",
+    "name": "Chocolate cereal bars"
+  },
+  {
+    "code": "10.2.2.1.1",
+    "parent": "10.2.2.1",
+    "name": "Cheesecakes"
+  },
+  {
+    "code": "10.2.2.1.2",
+    "parent": "10.2.2.1",
+    "name": "Chocolate cakes"
+  },
+  {
+    "code": "10.2.2.1.3",
+    "parent": "10.2.2.1",
+    "name": "Doughnuts"
+  },
+  {
+    "code": "10.2.2.1.4",
+    "parent": "10.2.2.1",
+    "name": "Financiers"
+  },
+  {
+    "code": "10.2.2.1.5",
+    "parent": "10.2.2.1",
+    "name": "Muffins"
+  },
+  {
+    "code": "10.2.2.1.6",
+    "parent": "10.2.2.1",
+    "name": "Pound Cake"
+  },
+  {
+    "code": "10.2.2.3.1",
+    "parent": "10.2.2.3",
+    "name": "Meringues"
+  },
+  {
+    "code": "10.2.2.3.2",
+    "parent": "10.2.2.3",
+    "name": "Waffles"
+  },
+  {
+    "code": "10.2.3.1.1",
+    "parent": "10.2.3.1",
+    "name": "Gummi candies"
+  },
+  {
+    "code": "10.2.3.2.1",
+    "parent": "10.2.3.2",
+    "name": "Salted butter caramels"
+  },
+  {
+    "code": "10.2.3.3.1",
+    "parent": "10.2.3.3",
+    "name": "Sugar-free chewing gum"
+  },
+  {
+    "code": "10.2.5.1.1",
+    "parent": "10.2.5.1",
+    "name": "Brioches"
+  },
+  {
+    "code": "10.2.5.1.2",
+    "parent": "10.2.5.1",
+    "name": "Chocolate croissant"
+  },
+  {
+    "code": "10.2.5.1.3",
+    "parent": "10.2.5.1",
+    "name": "Croissants"
+  },
+  {
+    "code": "10.2.5.1.4",
+    "parent": "10.2.5.1",
+    "name": "Milk bread rolls"
+  },
+  {
+    "code": "1.2.1.1.1.1",
+    "parent": "1.2.1.1.1",
+    "name": "Pale ales"
+  },
+  {
+    "code": "1.2.1.1.2.1",
+    "parent": "1.2.1.1.2",
+    "name": "French beers"
+  },
+  {
+    "code": "1.2.1.3.1.1",
+    "parent": "1.2.1.3.1",
+    "name": "Eaux de vie"
+  },
+  {
+    "code": "1.2.1.6.2.1",
+    "parent": "1.2.1.6.2",
+    "name": "Champagnes"
+  },
+  {
+    "code": "8.2.1.2.1.1",
+    "parent": "8.2.1.2.1",
+    "name": "Bread loaves"
+  },
+  {
+    "code": "8.2.1.2.1.2",
+    "parent": "8.2.1.2.1",
+    "name": "Bread rolls"
+  },
+  {
+    "code": "8.2.1.2.1.3",
+    "parent": "8.2.1.2.1",
+    "name": "Breadsticks"
+  },
+  {
+    "code": "8.2.1.2.1.4",
+    "parent": "8.2.1.2.1",
+    "name": "Crispbreads"
+  },
+  {
+    "code": "8.2.1.2.1.5",
+    "parent": "8.2.1.2.1",
+    "name": "Flatbreads"
+  },
+  {
+    "code": "8.2.1.2.1.6",
+    "parent": "8.2.1.2.1",
+    "name": "Rusks"
+  },
+  {
+    "code": "8.2.1.2.1.7",
+    "parent": "8.2.1.2.1",
+    "name": "Sliced breads"
+  },
+  {
+    "code": "8.2.1.2.1.8",
+    "parent": "8.2.1.2.1",
+    "name": "Special breads"
+  },
+  {
+    "code": "8.2.1.2.1.9",
+    "parent": "8.2.1.2.1",
+    "name": "Toasts"
+  },
+  {
+    "code": "8.2.1.2.1.10",
+    "parent": "8.2.1.2.1",
+    "name": "White breads"
+  },
+  {
+    "code": "8.2.1.2.1.11",
+    "parent": "8.2.1.2.1",
+    "name": "Wholemeal breads"
+  },
+  {
+    "code": "8.2.1.2.2.1",
+    "parent": "8.2.1.2.2",
+    "name": "Wheat semolinas"
+  },
+  {
+    "code": "8.2.1.2.4.1",
+    "parent": "8.2.1.2.4",
+    "name": "Puffed rice cakes"
+  },
+  {
+    "code": "10.2.2.1.2.1",
+    "parent": "10.2.2.1.2",
+    "name": "Brownies"
+  },
+  {
+    "code": "10.2.2.1.6.1",
+    "parent": "10.2.2.1.6",
+    "name": "Madeleines"
+  },
+  {
+    "code": "10.2.5.1.1.1",
+    "parent": "10.2.5.1.1",
+    "name": "Pure butter brioche"
+  },
+  {
+    "code": "10.2.5.1.3.1",
+    "parent": "10.2.5.1.3",
+    "name": "Butter croissants"
+  },
+  {
+    "code": "1.2.1.1.1.1.1",
+    "parent": "1.2.1.1.1.1",
+    "name": "India Pale Ale (IPA)"
+  },
+  {
+    "code": "1.2.1.3.1.1.1",
+    "parent": "1.2.1.3.1.1",
+    "name": "Rums"
+  },
+  {
+    "code": "8.2.1.2.1.1.1",
+    "parent": "8.2.1.2.1.1",
+    "name": "Baguettes"
+  },
+  {
+    "code": "8.2.1.2.1.8.1",
+    "parent": "8.2.1.2.1.8",
+    "name": "Bagel breads"
+  },
+  {
+    "code": "8.2.1.2.1.8.2",
+    "parent": "8.2.1.2.1.8",
+    "name": "Hamburger buns"
+  },
+  {
+    "code": "8.2.1.2.1.10.1",
+    "parent": "8.2.1.2.1.10",
+    "name": "Wheat breads"
+  },
+  {
+    "code": "8.2.1.2.2.1.1",
+    "parent": "8.2.1.2.2.1",
+    "name": "Durum wheat semolinas"
+  },
+  {
+    "code": "8.2.1.2.2.1.1.1",
+    "parent": "8.2.1.2.2.1.1",
+    "name": "Durum wheat semolinas for couscous"
+  }
+]

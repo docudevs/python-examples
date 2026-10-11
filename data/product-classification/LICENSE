@@ -1,0 +1,19 @@
+Data from Open Food Facts (https://world.openfoodfacts.org), obtained from the
+openfoodfacts/product-database export on Hugging Face
+(https://huggingface.co/datasets/openfoodfacts/product-database).
+
+The files in this directory (tree.json, records.csv, holdout.csv) and prepare_data.py's
+output are a derived extract of that database. They are made available under the
+Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+
+The individual contents of the database are made available under the
+Database Contents License (DbCL) 1.0: https://opendatacommons.org/licenses/dbcl/1-0/
+
+Suggested attribution: "Contains data from Open Food Facts, available under the
+Open Database License."
+
+If you publish or share a derived database, the ODbL share-alike terms apply.
+Check the Open Food Facts terms of use before you publish anything derived from this data:
+https://world.openfoodfacts.org/terms-of-use
+
+The MIT licence of the rest of this repository does not apply to this directory.
