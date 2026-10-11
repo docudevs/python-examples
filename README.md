@@ -35,7 +35,7 @@ export DOCUDEVS_API_KEY="your-api-key-here"
 jupyter notebook
 ```
 
-> **Notebook 10 (Product Classification)** needs `docu-devs-api-client>=1.11.0`, the first release with case records. It also reads the Open Food Facts Parquet export with `pyarrow` (preinstalled in Colab; locally `pip install pyarrow`).
+> **Notebook 10 (Product Classification)** needs `docu-devs-api-client>=1.11.0`, the first release with case records. It reads its data from `data/product-classification/`; the data script (`prepare_data.py`) needs `pyarrow` to regenerate it.
 
 ## Example
 
