@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 .DS_Store
 outputs/
+
+# Notebook 10 downloads Open Food Facts data into a local cache; never commit it
+off-cache/

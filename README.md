@@ -25,6 +25,7 @@ Extract structured data from any document with a few lines of Python.
 | 7 | [PDF Templates](07-pdf-template.ipynb) | Upload a fillable authorization PDF as a template, inspect fields, and fill it | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/07-pdf-template.ipynb) |
 | 8 | [PDF to AcroForm](08-pdf-acroform-metadata.ipynb) | Convert a complex medical PDF to AcroForm and inspect metadata/field definitions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/08-pdf-acroform-metadata.ipynb) |
 | 9 | [Source Locations](09-source-locations.ipynb) | Extract invoice fields, fetch the source-locations artifact, and draw evidence boxes on page thumbnails | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/09-source-locations.ipynb) |
+| 10 | [Product Classification](10-product-classification.ipynb) | Classify Open Food Facts products into a category tree with a records knowledge base, review results, and test a memo rule | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docudevs/python-examples/blob/main/10-product-classification.ipynb) |
 
 ## Local Setup
 
@@ -33,6 +34,8 @@ pip install docu-devs-api-client pydantic jupyter matplotlib pillow pypdf
 export DOCUDEVS_API_KEY="your-api-key-here"
 jupyter notebook
 ```
+
+> **Notebook 10 (Product Classification)** needs the release of `docu-devs-api-client` that includes case records. The latest PyPI release does not include them yet. It needs no packages beyond the SDK; the data download uses the Python standard library only.
 
 ## Example
 
