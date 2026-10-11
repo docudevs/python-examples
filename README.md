@@ -35,7 +35,7 @@ export DOCUDEVS_API_KEY="your-api-key-here"
 jupyter notebook
 ```
 
-> **Notebook 10 (Product Classification)** needs `docu-devs-api-client>=1.12.0`, the first release with the case-bound records API. It reads its data from `data/product-classification/`; the data script (`prepare_data.py`) needs `pyarrow` to regenerate it.
+> **Notebook 10 (Product Classification)** needs `docu-devs-api-client>=1.12.1`, which has the case-bound records API. It reads its data from `data/product-classification/`; the data script (`prepare_data.py`) needs `pyarrow` to regenerate it.
 
 ## Example
 
